@@ -1,16 +1,13 @@
+# Byte-compiled / cache
 __pycache__/
 *.py[cod]
+*$py.class
+
+# SQLite database
 *.sqlite3
-*.log
-*.json
-*.csv
-*.env
-db.sqlite3
+
+# Environment variables
 .env
-*.pyc
-.DS_Store
+
+# VS Code workspace settings
 .vscode/
-.idea/
-*.swp
-/staticfiles
-/media
