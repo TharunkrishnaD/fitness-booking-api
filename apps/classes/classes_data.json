@@ -11,7 +11,7 @@
         "name": "Zumba",
         "instructor": "Tharun",
         "datetime": "2025-06-07T10:00:00+05:30",
-        "available_slots": 10
+        "available_slots": 9
     },
     {
         "id": 3,
